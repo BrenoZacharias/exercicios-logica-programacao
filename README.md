@@ -1,2 +1,2 @@
 # exercicios-logica-programacao
-No arquivo 'enunciado-exercicios.doc' existe o enunciado de 29 exercícios de lógica de programação e resolução de problemas. Já no arquivo 'resolucao-exercicios.docx' encontram-se as resoluções dos exercícios.
+No arquivo 'enunciado-exercicios.doc' existe o enunciado de 29 exercícios de lógica de programação e resolução de problemas. Já no arquivo 'resolucao-exercicios.docx' encontram-se as resoluções dos exercícios - nos 3 primeiros exercícios também realizei a resolução em Python. 
